@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+  <title>dimwake</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    :root {
+      --bg: #000;
+      --fg: #ccc;
+      --fg-light: #fff;
+      --accent: #222;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      font-family: 'Courier New', monospace;
+      background: var(--bg);
+      color: var(--fg);
+      scroll-behavior: smooth;
+    }
+    section {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      padding: 2rem;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1s ease forwards;
+    }
+    section:nth-of-type(2) { animation-delay: 0.6s; }
+    section:nth-of-type(3) { animation-delay: 1.2s; }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    h1 {
+      font-size: 4.5rem;
+      color: var(--fg-light);
+      letter-spacing: 2px;
+    }
+
+    .manifesto {
+      max-width: 640px;
+      text-align: center;
+      font-size: 1rem;
+      line-height: 1.8;
+    }
+    .manifesto p {
+      margin: 1.2rem 0;
+    }
+    .manifesto strong {
+      display: block;
+      color: var(--fg-light);
+    }
+
+    .connect {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 1rem;
+      max-width: 800px;
+      width: 100%;
+    }
+    .connect a {
+      text-decoration: none;
+      background: var(--accent);
+      padding: 1rem;
+      border: 1px solid #333;
+      color: var(--fg);
+      border-radius: 8px;
+      font-size: 0.85rem;
+      text-align: center;
+      transition: all 0.2s ease;
+    }
+    .connect a:hover {
+      background: #333;
+      color: var(--fg-light);
+    }
+
+    .blog-link {
+      margin-top: 2rem;
+      color: var(--fg-light);
+      font-size: 0.9rem;
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.75rem;
+      color: #555;
+      margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  
+  <section>
+    <h1>dimwake.</h1>
+  </section>
+
+  
+  <section>
+    <div class="manifesto">
+      <p>not here to teach.</p>
+      <p>just someone who's been building things in silence.</p>
+      <p>sometimes it’s code. sometimes it’s a sentence I shouldn't post.</p>
+      <p>I think too much. I feel even more.<br />I write what most people delete.</p>
+      <p>if you’re into startups, screenshots, emotional chaos, systems, loneliness,<br />
+      design, fantasies, stillness — yeah. same.</p>
+      <p>this account won't change your life.<br />
+      it might just say something you weren’t ready to hear.</p>
+    </div>
+  </section>
+
+  
+  <section>
+    <strong style="margin-bottom: 1rem; font-size: 1.2rem;">Connect</strong>
+    <div class="connect">
+      <a href="https://twitter.com/dimwake">Twitter<br />@dimwake</a>
+      <a href="https://instagram.com/dimwake">Instagram<br />dimwake</a>
+      <a href="https://github.com/dimwake">GitHub<br />dimwake</a>
+      <a href="#">Discord<br />dimwake</a>
+      <a href="https://reddit.com/u/dimwake">Reddit<br />u/dimwake</a>
+      <a href="#">Pinterest<br />dimwake</a>
+      <a href="#">Lovable<br />dimwake</a>
+      <a href="https://medium.com/@dimwake">Medium<br />@dimwake</a>
+    </div>
+    <a class="blog-link" href="/posts/">→ view the blog</a>
+  </section>
+
+  <footer>© 2024 Dimwake — Built in the shadows</footer>
+
+</body>
+</html>

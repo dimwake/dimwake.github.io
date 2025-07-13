@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotion on dimwake</title>
+    <link>http://localhost:1313/tags/emotion/</link>
+    <description>Recent content in Emotion on dimwake</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Paper Story</title>
+      <link>http://localhost:1313/posts/the-paper-story/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/the-paper-story/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;blog/the-paper-story/the-paper-story.png&#34; alt=&#34;The Paper Story - Dimwake&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;We all use paper.&lt;/p&gt;&#xA;&lt;p&gt;We write on it, fold it, scribble our thoughts when no one’s watching.&lt;br&gt;&#xA;Sometimes, we use it to clean messes. Other times, we pour our poetry onto it.&lt;br&gt;&#xA;But never do we ask the paper if it&amp;rsquo;s ready.&lt;/p&gt;&#xA;&lt;p&gt;It never resists.&lt;/p&gt;&#xA;&lt;p&gt;Some days, we crush it in frustration.&lt;br&gt;&#xA;Not because it did anything wrong—&lt;br&gt;&#xA;but because we couldn’t control what we were feeling.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
