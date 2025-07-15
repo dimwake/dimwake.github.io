@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dimwake</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://dimwake.netlify.app/tags/</link>
     <description>Recent content in Tags on Dimwake</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dimwake.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflections</title>
-      <link>http://localhost:1313/tags/reflections/</link>
+      <link>https://dimwake.netlify.app/tags/reflections/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/reflections/</guid>
+      <guid>https://dimwake.netlify.app/tags/reflections/</guid>
       <description></description>
     </item>
     <item>
       <title>Stories</title>
-      <link>http://localhost:1313/tags/stories/</link>
+      <link>https://dimwake.netlify.app/tags/stories/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/stories/</guid>
+      <guid>https://dimwake.netlify.app/tags/stories/</guid>
       <description></description>
     </item>
     <item>
       <title>Throughts</title>
-      <link>http://localhost:1313/tags/throughts/</link>
+      <link>https://dimwake.netlify.app/tags/throughts/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/throughts/</guid>
+      <guid>https://dimwake.netlify.app/tags/throughts/</guid>
       <description></description>
     </item>
   </channel>
